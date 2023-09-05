@@ -1,4 +1,3 @@
-# Atom-Molecule-Descriptor-Profile
 Updated Graphical User Interface on Atom/Molecule Descriptor Profile
 
 The original Guidemol graphical user interface was set available in github framework:
