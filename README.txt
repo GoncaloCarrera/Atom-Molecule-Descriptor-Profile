@@ -1,19 +1,17 @@
 Updated Graphical User Interface on Atom/Molecule Descriptor Profile
 
-The original Guidemol graphical user interface was set available in github framework:
+The original graphical user interface (Guidemol) was set available in github framework:
 
 https://github.com/jairesdesousa/guidemol/tree/main
 
 This graphical user interface consists on a Python computer program based on the RDKit software (RDKit: Open-source cheminformatics. https://www.rdkit.org). 
 The original version processes molecular structures and calculate molecular descriptors with a graphical user interface using the tkinter package. 
 It can calculate descriptors already implemented in RDKit as well as grid representations of 3D molecular structures using the electrostatic potential or voxels.
-The complete description was published in ChemRxiv:
 The complete description was released in ChemRxiv:
 
 https://chemrxiv.org/engage/chemrxiv/article-details/6448fd24e4bbbe4bbf475860
 
-The new version of this open source graphical user interface (Guidemol 1.1.2) involves the generation of atomic descriptors of a generical chemical:
-The new version of this open source graphical user interface (Guidemol 1.1.2) involves the generation of atomic descriptors from generical chemicals:
+The new version of this open source graphical user interface (Atom-Molecule-Descriptor-Profile.py) involves the generation of atomic descriptors of a generical chemical:
 
 1- Atomic number.
 2- Atomic contribution to Molecular refractivity.
